@@ -130,3 +130,7 @@ dmypy.json
 
 # generated csv
 metricdump_*.csv
+
+# expiremental python and ipynb file
+expiremental_*.py
+expiremental_*.ipynb
