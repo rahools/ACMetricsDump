@@ -131,6 +131,6 @@ dmypy.json
 # generated csv
 metricdump_*.csv
 
-# expiremental python and ipynb file
-expiremental_*.py
-expiremental_*.ipynb
+# experimental python and ipynb file
+experimental_*.py
+experimental_*.ipynb
